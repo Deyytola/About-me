@@ -13,8 +13,6 @@ Here are some facts you should know about me:
 - Nickname- Deytola
 - Hobbies- singing,eating and sleeping.
 
-##  About Me
-I'm a full stack developer...
 
 
 ## 🔗 Links
